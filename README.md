@@ -11,6 +11,12 @@ Practice using HTML tags to structure a content on web pages.
 
 ## Exercise 1
 
+* To access the correct part of the file for this assignment:
+**Open the program - Visual Studio CODE
+** Open the repository folder.  
+*** Within the folder, open the webpage to edit
+**** Follow instructions written in the assignment to update the source code.
+
 Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
@@ -21,7 +27,7 @@ Steps are to be completed under the div with `id="exercise1"`
 Steps are to be completed under the div with `id="exercise2"`
 
 1. Create an **unordered list** element
-2. Create three **list item** elements nested inside of the **unordered list** that your just created
+2. Create three **list item** elements nested inside of the **unordered list** that you just created
 3. Create an **anchor** element inside of _each_ **list item** that you just created in your **unordered list**
 4. Each **anchor** element should link to the following:
    - The first **anchor** element should link to your _LinkedIn profile_
